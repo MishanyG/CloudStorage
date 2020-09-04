@@ -12,5 +12,7 @@
         <module>Client</module>
         <module>Server</module>
         <module>Com</module>
+        <module>ClientStorage</module>
+        <module>ServerStorage</module>
     </modules>
 </project>
